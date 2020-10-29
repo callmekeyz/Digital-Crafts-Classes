@@ -11,7 +11,8 @@ class mob:
         enemy.get_hit(self.attack_power)
 
 class hero(mob):
-    pass
+    def yell(self):
+        print
 hero = hero("keyz")
 print(hero.attack_power)
 bad_guy = mob("baddy")
