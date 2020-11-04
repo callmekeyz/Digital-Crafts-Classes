@@ -1,0 +1,3 @@
+let myobj = {
+    item:"spaceship",
+}
