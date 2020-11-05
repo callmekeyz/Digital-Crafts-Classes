@@ -1,0 +1,31 @@
+.top
+{display:flex;
+background-color: white;
+height: 10vh;
+width: 100vw;}
+.bottom
+{display: flex;
+background-color: white;
+height: 90vh;
+width: 100vw;}
+.Left
+{display:flex;
+background-color: white;
+width: 33%;
+}
+.Mid
+{display:flex;
+background-color: white;
+width: 33%;}
+.right
+{display: flex;
+background-color: white;
+width: 33%;}
+.Outside
+{display: flex;
+background-color: white;
+width: 50%;}
+.Inside
+{display: flex;
+background-color: white;
+width: 50%;}
